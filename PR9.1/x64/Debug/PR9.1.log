@@ -1,0 +1,4 @@
+﻿  PR9.1.cpp
+C:\Student\PR9.1\PR9.1\PR9.1.cpp(45,11): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.1\PR9.1\PR9.1.cpp(56,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  PR9.1.vcxproj -> C:\Student\PR9.1\x64\Debug\PR9.1.exe
